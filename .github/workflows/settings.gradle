@@ -1,0 +1,2 @@
+nonrootProject.name = "HyperIsland"
+include ':app'
